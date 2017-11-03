@@ -1,2 +1,3 @@
 SOME TEXT
 new text
+and another
