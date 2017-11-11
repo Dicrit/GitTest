@@ -1,3 +1,6 @@
 SOME TEXT
 new text
 and another
+**************************
+	ADDED NEW FEATURE 
+**************************
