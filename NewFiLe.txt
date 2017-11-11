@@ -3,4 +3,8 @@ new text
 and another
 **************************
 	ADDED NEW FEATURE 
+	
+	
+	
+	SOME ANOTHER FEATURE CHANGES
 **************************
